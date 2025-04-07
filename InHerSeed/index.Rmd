@@ -1,6 +1,6 @@
 --- 
-title: "Title of the Memoir"
-author: "Authors' names"
+title: "InHerSeed"
+author: "T. LAFONT RAPNOUIL, M. SIMONIN, M. Brunel"
 date: "`r Sys.Date()`"
 url: https://GitHubID.github.io/Repository/
 github-repo: GitHubID/Repository
