@@ -2,19 +2,13 @@
 title: "InHerSeed"
 author: "T. LAFONT RAPNOUIL, M. SIMONIN, M. Brunel"
 date: "`r Sys.Date()`"
-url: https://GitHubID.github.io/Repository/
-github-repo: GitHubID/Repository
-description: "Bookdown template based on LaTeX memoir class"
+url: https://lafontrapnouiltristan.github.io/InHerSeed/
+github-repo: LafontRapnouilTristan/InHerSeed
+description: "This is a Wiki for the INHERSEED project."
 cover-image: "images/logo.png"
 # Title page...
 maintitlepage:
   epigraph: |
-    This document is reproducible thanks to:
-    \begin{itemize}
-      \item \LaTeX and its class memoir (\url{http://www.ctan.org/pkg/memoir}).
-      \item R (\url{http://www.r-project.org/}) and RStudio (\url{http://www.rstudio.com/})
-      \item bookdown (\url{http://bookdown.org/}) and memoiR (\url{https://ericmarcon.github.io/memoiR/})
-    \end{itemize}
   credits: |
     Name of the owner of the logo
     
@@ -88,9 +82,6 @@ chaptersummary: In a Nutshell
 backcover:
   - language: english
     abstract: |
-      English abstract, on the last page.
-  
-      This is a bookdown template based on LaTeX memoir class.
     keywords:
       - Keyword in English
       - As a list
@@ -111,8 +102,6 @@ csquotes: true
 ---
 
 <!-- HTML code necessary for key messages --> 
-<img src="images/trombone.png" alt="image" hidden/>
-
 ```{r}
 #| label: DoNotModify
 #| include: FALSE
